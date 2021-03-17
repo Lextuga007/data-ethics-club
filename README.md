@@ -1,4 +1,4 @@
-# Data Ethics Club
+# Data Group
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
 [![All Contributors](https://img.shields.io/badge/all_contributors-11-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
@@ -6,6 +6,10 @@
   <img height=250 src="logo.png">
 </p>
 
+
+Using the repo from the [Very Good Data Science Ethics Club](https://github.com/very-good-science/data-ethics-club) for the [AphA](https://www.aphanalysts.org/) Ethics Group. 
+
+<!--
 Welcome! Data Ethics Club is a discussion group/"journal" club about doing data science ethically. "Journal" because we will also read blog posts, (parts of) books, or watch videos. The organisers are based in Bristol, but the club is open to all. To [stay in the loop](#stay-in-the-loop), please join our [mailing list](http://eepurl.com/hjkmnX). You can see the dates of our upcoming meetings [here](./MEETINGS.md).
 
 While you're here, you may also want to:
@@ -195,3 +199,4 @@ This project follows the [all-contributors](https://github.com/all-contributors/
 + 🤔  for ideas and planning of the group
 + 🎨  for visual design (e.g. logo)
 + 🚇  for infrastructure (e.g. bots, CI)
+-->
